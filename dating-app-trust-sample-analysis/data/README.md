@@ -1,4 +1,4 @@
-\## Data (Not Included)
+## Data (Not Included)
 
 
 
@@ -15,6 +15,7 @@ To run the scripts locally, place a de-identified CSV here named:
 Running Script 1 will also create (locally):
 
 \- `TrustData\_clean.csv`
+
 
 
 
