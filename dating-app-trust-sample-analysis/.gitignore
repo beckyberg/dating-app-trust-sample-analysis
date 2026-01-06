@@ -1,13 +1,12 @@
-# Never upload datasets
 data/*
 !data/README.md
 
-# Optional: if you don't want to upload outputs
-# outputs/*
-# !outputs/README.md
+outputs/*
+!outputs/README.md
 
 # R junk
 .Rhistory
 .RData
 .Rproj.user
 *.rds
+
